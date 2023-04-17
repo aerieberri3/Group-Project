@@ -1,0 +1,8 @@
+Post-modern portfolio theory
+https://en.wikipedia.org/wiki/Post-modern_portfolio_theory
+
+". The essential difference between PMPT and the modern portfolio theory of Markowitz and Sharpe (MPT) is that PMPT focuses on the return that must be earned on the assets in a portfolio in order to meet some future payout. "
+
+' PMPT measures risk and reward relative to this IRR while MPT ignores this IRR and measures risk as dispersion about the mean or average return."
+
+"The result is substantially different portfolio constructions."
