@@ -1,0 +1,21 @@
+sharpe_sorino_project
+	01_code_scripts
+		01_clean_data
+		02_run_model
+		03_create_plots
+	02_raw_data
+		/daily_returns_mike
+		/daily_returns_ivan
+		/daily_returns_demaris
+		/daily_returns_erin
+	03_processed_data
+		/sharpe_ratios
+		/sorino_ratio
+	04_graphic_outputs
+		/plot sharpe ratio
+		/plot sorino ratio
+	05_paper_blog
+
+Use the Google Finance function to choose a portfolio. (3 points)
+Download the data needed as CSV files and calculate the portfolio returns. (4 points)
+Add the portfolio returns to the DataFrame with the other portfolios, then analyze and compare all portfolios. (8 points)
